@@ -17,3 +17,8 @@ Javascript fue creado por Brendan Eich en el año 1995, se dice que o creo en 10
 
 # 2 Menu 1
 
+En el video nos muestra como vamos a hacer un menú donde se  va a poder adaptar a la ventana y estaremos usando unas herramientas como el de la calculadora, agregaremos también temporizador. Además, usaremos CSS para decorar o estilo nuestro menú, estaremos usando iconos en una herramienta que nos da el que es iónicos. En esta herramienta iónicos estaremos usando los iconos que serán de mejor convenencia para nuestro menú. Ahora estaremos usando los  estilos, y usaremos un GitHub donde vamos a usar fonts-googleapies y copiar ese código llevándolo a nuestro style.css. Luego de eso estaremos arreglando o decorando el cuerpo del menú y añadiendo la transición sea suave y tendrá una animación, le daremos borde, todo esto es gracias a inset. Además, vamos a terminar las ubicaciones donde se encuentra el Home, messanger, ect, haciendo que se vean más organizadas y gracias que el icono no es una imagen podemos cambiarle el color a nuestra voluntad, pero esto se puede a las herramientas que estamos usando, luego le agregaremos como un fondo al icono viendo sé algo así. Y le añadiremos la transición y decoraremos esa parte de menú y con background le indicaremos que agarre cada uno de los colores ya indicados y también un iluminado.
+
+- [Menu](Menu.png "Menu")
+
+# 3 Toggle
